@@ -6,7 +6,7 @@
 
   * Greatest Common Divisor, Least Common Multiple
   
-* __programmers_2 [[Integer-Square-Root](https://programmers.co.kr/learn/courses/30/lessons/12934)]__
+* __programmers_2 [[integer - square - root](https://programmers.co.kr/learn/courses/30/lessons/12934)]__
 
   * Distinction of Integer Square Root
 --------------------------------------------------
