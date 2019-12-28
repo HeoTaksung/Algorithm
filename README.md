@@ -19,12 +19,8 @@
   * Summer/Winter coding ~2018
   
 * __programmers_5 [[rectangular star](https://programmers.co.kr/learn/courses/30/lessons/12969)]__
-
-  * Rectangular star
   
 * __programmers_6 [[matrix addition](https://programmers.co.kr/learn/courses/30/lessons/12950)]__
-
-  * Matrix addition
   
 * __programmers_7 [[harshad number](https://programmers.co.kr/learn/courses/30/lessons/12947)]__
 
@@ -35,12 +31,17 @@
   * Find the average
 
 * __programmers_9 [[integer descending](https://programmers.co.kr/learn/courses/30/lessons/12933)]__
-
-  * Integer Descending
   
 * __programmers_10 [[numbers into array](https://programmers.co.kr/learn/courses/30/lessons/12932)]__
 
   * Flip natural numbers into array
   
+* __programmers_11 [[cipher plus](https://programmers.co.kr/learn/courses/30/lessons/12931)]__
+  
+* __programmers_12 [[sum of aliquot](https://programmers.co.kr/learn/courses/30/lessons/12928)]__
+  
+* __programmers_13 [[replace string with integer](https://programmers.co.kr/learn/courses/30/lessons/12932)]__
+  
+* __programmers_14 [[string iteration](https://programmers.co.kr/learn/courses/30/lessons/12922)]__
 
 --------------------------------------------------
