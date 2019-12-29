@@ -44,4 +44,12 @@
   
 * __programmers_14 [[string iteration](https://programmers.co.kr/learn/courses/30/lessons/12922)]__
 
+* __programmers_15 [[string find index](https://programmers.co.kr/learn/courses/30/lessons/12919)]__
+
+* __programmers_16 [[string manipulation basics](https://programmers.co.kr/learn/courses/30/lessons/12918)]__
+
+* __programmers_17 [[arrange strings in descending order](https://programmers.co.kr/learn/courses/30/lessons/12917)]__
+
+* __programmers_18 [[the number of p and y in the string](https://programmers.co.kr/learn/courses/30/lessons/12916)]__
+
 --------------------------------------------------
