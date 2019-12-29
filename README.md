@@ -6,9 +6,7 @@
 
   * Greatest Common Divisor, Least Common Multiple
   
-* __programmers_2 [[integer square root](https://programmers.co.kr/learn/courses/30/lessons/12934)]__
-
-  * Distinction of Integer Square Root
+* __programmers_2 [[distinction of integer square root](https://programmers.co.kr/learn/courses/30/lessons/12934)]__
   
 * __programmers_3 [[jogging suit](https://programmers.co.kr/learn/courses/30/lessons/42862)]__
 
@@ -24,7 +22,7 @@
   
 * __programmers_7 [[harshad number](https://programmers.co.kr/learn/courses/30/lessons/12947)]__
 
-  * all-Harshad number
+  * All-Harshad number
   
 * __programmers_8 [[average](https://programmers.co.kr/learn/courses/30/lessons/12944)]__
 
