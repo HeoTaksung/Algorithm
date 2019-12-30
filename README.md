@@ -50,4 +50,12 @@
 
 * __programmers_18 [[the number of p and y in the string](https://programmers.co.kr/learn/courses/30/lessons/12916)]__
 
+* __programmers_19 [[sort strings at will](https://programmers.co.kr/learn/courses/30/lessons/12915)]__
+
+* __programmers_20 [[sum between two integers](https://programmers.co.kr/learn/courses/30/lessons/12912)]__
+
+* __programmers_21 [[divided number array](https://programmers.co.kr/learn/courses/30/lessons/12910)]__
+
+* __programmers_22 [[remove same number](https://programmers.co.kr/learn/courses/30/lessons/12906)]__
+
 --------------------------------------------------
