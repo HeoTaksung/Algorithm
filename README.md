@@ -64,4 +64,12 @@
 
 * __programmers_25 [[k'th number](https://programmers.co.kr/learn/courses/30/lessons/42748)]__
 
+* __programmers_26 [[mock test](https://programmers.co.kr/learn/courses/30/lessons/42840)]__
+
+  * Brute-Force
+
+* __programmers_27 [[removing the smallest number](https://programmers.co.kr/learn/courses/30/lessons/12935)]__
+
+* __programmers_28 [[even and odd](https://programmers.co.kr/learn/courses/30/lessons/12937)]__
+
 --------------------------------------------------
