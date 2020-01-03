@@ -72,4 +72,12 @@
 
 * __programmers_28 [[even and odd](https://programmers.co.kr/learn/courses/30/lessons/12937)]__
 
+* __programmers_29 [[n numbers spaced by x](https://programmers.co.kr/learn/courses/30/lessons/12954)]__
+
+* __programmers_30 [[hide cell phone number](https://programmers.co.kr/learn/courses/30/lessons/12948)]__
+
+* __programmers_31 [[secret map](https://programmers.co.kr/learn/courses/30/lessons/17681)]__
+
+  * 2018 KAKAO BLIND RECRUITMENT
+
 --------------------------------------------------
