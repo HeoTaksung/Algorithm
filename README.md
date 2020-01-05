@@ -80,4 +80,12 @@
 
   * 2018 KAKAO BLIND RECRUITMENT
 
+* __programmers_32 [[create strange characters](https://programmers.co.kr/learn/courses/30/lessons/12930)]__
+
+* __programmers_33 [[collatz guess](https://programmers.co.kr/learn/courses/30/lessons/12943)]__
+
+* __programmers_34 [[darts games](https://programmers.co.kr/learn/courses/30/lessons/17682)]__
+
+  * 2018 KAKAO BLIND RECRUITMENT
+
 --------------------------------------------------
