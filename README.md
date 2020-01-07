@@ -96,4 +96,12 @@
 
   * Heap
   
+* __programmers_35 [[the largest number](https://programmers.co.kr/learn/courses/30/lessons/42746)]__
+
+  * Sort
+
+* __programmers_36 [[phone number list](https://programmers.co.kr/learn/courses/30/lessons/42577)]__
+
+  * Hash
+  
 --------------------------------------------------
