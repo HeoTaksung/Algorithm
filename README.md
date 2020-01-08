@@ -96,12 +96,16 @@
 
   * Heap
   
-* __programmers_35 [[the largest number](https://programmers.co.kr/learn/courses/30/lessons/42746)]__
+* __programmers_37 [[the largest number](https://programmers.co.kr/learn/courses/30/lessons/42746)]__
 
   * Sort
 
-* __programmers_36 [[phone number list](https://programmers.co.kr/learn/courses/30/lessons/42577)]__
+* __programmers_38 [[phone number list](https://programmers.co.kr/learn/courses/30/lessons/42577)]__
 
   * Hash
-  
+
+* __programmers_39 [[correct parenthesis](https://programmers.co.kr/learn/courses/30/lessons/12909)]__
+
+* __programmers_40 [[next big number](https://programmers.co.kr/learn/courses/30/lessons/12911)]__
+
 --------------------------------------------------
