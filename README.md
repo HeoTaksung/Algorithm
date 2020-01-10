@@ -108,4 +108,8 @@
 
 * __programmers_40 [[next big number](https://programmers.co.kr/learn/courses/30/lessons/12911)]__
 
+* __programmers_41 [[representation of a number](https://programmers.co.kr/learn/courses/30/lessons/12924)]__
+
+* __programmers_42 [[maximum and minimum](https://programmers.co.kr/learn/courses/30/lessons/12939)]__
+
 --------------------------------------------------
