@@ -112,4 +112,8 @@
 
 * __programmers_42 [[maximum and minimum](https://programmers.co.kr/learn/courses/30/lessons/12939)]__
 
+* __programmers_43 [[create minimum](https://programmers.co.kr/learn/courses/30/lessons/12941)]__
+
+* __programmers_44 [[fibonacci numbers](https://programmers.co.kr/learn/courses/30/lessons/12945)]__
+
 --------------------------------------------------
