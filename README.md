@@ -116,4 +116,12 @@
 
 * __programmers_44 [[fibonacci numbers](https://programmers.co.kr/learn/courses/30/lessons/12945)]__
 
+* __programmers_45 [[create a prime number](https://programmers.co.kr/learn/courses/30/lessons/12977)]__
+
+  * Hash
+
+* __programmers_46 [[an incomplete player](https://programmers.co.kr/learn/courses/30/lessons/42576)]__
+
+  * Summer/Winter coding ~2018
+
 --------------------------------------------------
