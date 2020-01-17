@@ -123,5 +123,9 @@
 * __programmers_46 [[an incomplete player](https://programmers.co.kr/learn/courses/30/lessons/42576)]__
 
   * Summer/Winter coding ~2018
+  
+* __programmers_47 [[lyrics search](https://programmers.co.kr/learn/courses/30/lessons/60060)]__
+
+  * 2020 KAKAO BLIND RECRUITMENT
 
 --------------------------------------------------
