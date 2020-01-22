@@ -6,4 +6,6 @@
   
   * Bob_And_GCD [[hackerearth](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-gcd-d6d86b3b/)]
   
+  * Help_Patwari [[hackerearth)(https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/help-patwari/)]
+  
 --------------------------------------------------
