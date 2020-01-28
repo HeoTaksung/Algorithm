@@ -8,4 +8,8 @@
   
   * Help_Patwari [[hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/help-patwari/)]
   
+  * Solitary_String [[hackerearth](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/solitary-string/)]
+  
+  * 가장 가까운 두 점의 거리 [[백준5620](https://www.acmicpc.net/problem/5620)]
+  
 --------------------------------------------------
